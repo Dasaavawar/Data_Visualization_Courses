@@ -1,7 +1,7 @@
 # freeCodeCamp - Data Visualization - Courses - II - JSON APIs and AJAX
 
 
-#  2. Courses - JSON APIs and AJAX
+## 2. Courses - JSON APIs and AJAX
 
 Similar to how UIs help people use programs, APIs (Application Programming Interfaces) help programs interact with other programs. APIs are tools that computers use to communicate with one another, in part to send and receive data.
 
