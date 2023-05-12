@@ -1,7 +1,7 @@
 # freeCodeCamp - Data Visualization - Courses - I - Data Visualization with D3
 
 
-#  1. Courses - Data Visualization with D3
+## 1. Courses - Data Visualization with D3
 
 D3, or D3.js, stands for Data Driven Documents. It's a JavaScript library for creating dynamic and interactive data visualizations in the browser.
 
